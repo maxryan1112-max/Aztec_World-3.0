@@ -1,5 +1,4 @@
 #Aztec World
-
 Aztec World is a first-person educational exploration game set in an Aztec-inspired environment, designed to run as an embedded application inside a desktop-style portfolio website. The game is built as a vertical slice prototype, meaning it covers one complete and polished level rather than a full game experience. Players explore a starting area, speak with a merchant NPC, purchase tools from her shop, and earn knowledge points that reflect their learning progress.
 
 ##Navigation and Controls
